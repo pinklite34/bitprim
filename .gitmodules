@@ -13,7 +13,7 @@
 [submodule "bitprim-network"]
 	path = bitprim-network
 	url = https://github.com/bitprim/bitprim-network.git
-	branch = dev
+	branch = feature_compact_blocks
 [submodule "bitprim-consensus"]
 	path = bitprim-consensus
 	url = https://github.com/bitprim/bitprim-consensus.git
